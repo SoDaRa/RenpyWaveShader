@@ -7,9 +7,9 @@
  make my day to know I helped some people out!
  Really hope this can help the community create some cool visuals!
  http://opensource.org/licenses/mit-license.php
- Github: https://github.com/SoDaRa/
+ Github: https://github.com/SoDaRa/RenpyWaveShader
  itch.io: https://wattson.itch.io/renpy-wave-shader
- Forum Post:
+ Forum Post: To Be Added Once Posted
 """
 # Permission is hereby granted, free of charge, to any person
 # obtaining a copy of this software and associated documentation files
