@@ -1,0 +1,9 @@
+
+game/saves/persistent
+game/saves/
+log.txt
+traceback.txt
+errors.txt
+*.save
+game/saves/persistent
+game/cache/
