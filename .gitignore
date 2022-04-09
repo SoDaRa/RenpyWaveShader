@@ -7,3 +7,4 @@ errors.txt
 *.save
 game/saves/persistent
 game/cache/
+game/tl/None/common.rpymc

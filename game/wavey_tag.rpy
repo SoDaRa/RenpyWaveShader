@@ -10,7 +10,7 @@
  http://opensource.org/licenses/mit-license.php
  Github: https://github.com/SoDaRa/RenpyWaveShader
  itch.io: https://wattson.itch.io/renpy-wave-shader
- Forum Post:To Be Added Once Posted
+ Forum Post: https://lemmasoft.renai.us/forums/viewtopic.php?f=51&t=64378
 """
 # Permission is hereby granted, free of charge, to any person
 # obtaining a copy of this software and associated documentation files
